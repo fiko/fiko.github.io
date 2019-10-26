@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8046f74d.chunk.css",
+    "main.js": "/static/js/main.4160a8ce.chunk.js",
+    "main.js.map": "/static/js/main.4160a8ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.50e3c7ab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.50e3c7ab.js.map",
+    "static/js/2.6cf45907.chunk.js": "/static/js/2.6cf45907.chunk.js",
+    "static/js/2.6cf45907.chunk.js.map": "/static/js/2.6cf45907.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a3b24f83bfb7028d86de01fb91dc7bd2.js": "/precache-manifest.a3b24f83bfb7028d86de01fb91dc7bd2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8046f74d.chunk.css.map": "/static/css/main.8046f74d.chunk.css.map",
+    "static/media/logo-github.svg": "/static/media/logo-github.38d42861.svg",
+    "static/media/logo-linkedin.svg": "/static/media/logo-linkedin.018f55b6.svg",
+    "static/media/logo-medium.svg": "/static/media/logo-medium.76438be9.svg",
+    "static/media/me_240.jpg": "/static/media/me_240.6e4e2402.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50e3c7ab.js",
+    "static/js/2.6cf45907.chunk.js",
+    "static/css/main.8046f74d.chunk.css",
+    "static/js/main.4160a8ce.chunk.js"
+  ]
+}
